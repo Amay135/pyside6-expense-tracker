@@ -1,9 +1,6 @@
-# ExpenseTracker - Трекер расходов 
-Трекер расходов написанный на Python с использованием фреймворка PySide6 с хранением записей в БД SQLite
+# Expense Tracker (PySide6)
 
 ![Screenshot 2023-05-01 203531](https://user-images.githubusercontent.com/26361250/235498237-62d36f89-6f75-4d78-bc83-8dd0ab8b166f.jpg)
-
-# Expense Tracker (PySide6)
 
 A desktop expense tracking application built using PySide6 and SQLite. The application helps users manage personal finances by recording income and expenses, organizing transactions into categories, and displaying financial summaries through a modern graphical user interface.
 
